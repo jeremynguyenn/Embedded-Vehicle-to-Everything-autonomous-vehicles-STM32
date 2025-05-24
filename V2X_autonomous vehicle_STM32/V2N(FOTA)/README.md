@@ -30,8 +30,8 @@ To use the V2N sub-system, follow these steps:
    - ![image](https://github.com/user-attachments/assets/34a49844-37f6-46ee-b513-7991479a6e75)
 )
    - Configure the NodeMCU from the `config.h` file to:
-     - Receive the .hex file uploaded to the web server using .hex File URL.
-     - Set the Wi-Fi SSID and Password for connecting to the network.
+     - Receive the .hex file uploaded to the web server using the .hex File URL.
+     - Set the Wi-Fi SSID and Password to connect to the network.
      - Specify the timeout interval for trying to connect to Wi-Fi.
 
 3. **Flashing Process:**
@@ -40,7 +40,7 @@ To use the V2N sub-system, follow these steps:
      - Erase the application area.
      - Flash the received code onto the Flash memory.
      - Run the application code.
-   - If no code is received from the NodeMCU for the specified timeout interval, the bootloader will jump to the latest flashed application code.
+   - The bootloader will jump to the latest flashed application code if no code is received from the NodeMCU for the specified timeout interval.
 
 ## Additional Information
 
@@ -48,7 +48,7 @@ To use the V2N sub-system, follow these steps:
 - **.hex File URL:** [Uploaded .hex File](https://sgnfinalproject.atwebpages.com/uploads/Application.txt)
 
 ## Video 
-[V2N(FOTA)]()
+[V2N(FOTA)](https://github.com/user-attachments/assets/9a013bde-feca-4ab9-9957-1c176524e11e)
 
 ## License
 
