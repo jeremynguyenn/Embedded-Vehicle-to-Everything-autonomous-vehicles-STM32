@@ -6,7 +6,7 @@ The V2N (Firmware Over-The-Air) sub-system facilitates the secure remote updatin
 ## Overview
 
 The V2N sub-system enables seamless firmware updates for the target microcontroller, enhancing the flexibility and functionality of the device without the need for physical intervention. By leveraging web-based communication and wireless technology, the sub-system simplifies the process of deploying and updating firmware in real-time.
-![image]()
+![image](https://github.com/user-attachments/assets/5ac00b76-4fb4-472a-885b-43894ea0b192)
 
 ## Features
 
