@@ -35,8 +35,8 @@ To use the V2V sub-system, follow these steps:
 ## Proteus Schematic
 
 A Proteus schematic is provided to facilitate testing and validation of the V2V sub-system. The schematic depicts the connections between the master and slave cars, as well as the configuration of virtual ports for communication.
-![image]()
-![image]()
+![image](https://github.com/user-attachments/assets/a4c441d7-2041-45bf-9cc3-02de04a4f6d1)
+![image](https://github.com/user-attachments/assets/40655c19-094e-457f-aaf5-5ef85b7a6019)
 
 ## Video
 [V2V Video]()
