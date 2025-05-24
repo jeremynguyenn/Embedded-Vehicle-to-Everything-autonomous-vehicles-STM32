@@ -27,7 +27,8 @@ To use the V2N sub-system, follow these steps:
 2. **NodeMCU Configuration:**
    - Connect the NodeMCU to any COM port through a USB to TTL module.
    - Add an appropriate COM interface in the Proteus simulation.
-   - ![image]()
+   - ![image](https://github.com/user-attachments/assets/34a49844-37f6-46ee-b513-7991479a6e75)
+)
    - Configure the NodeMCU from the `config.h` file to:
      - Receive the .hex file uploaded to the web server using .hex File URL.
      - Set the Wi-Fi SSID and Password for connecting to the network.
