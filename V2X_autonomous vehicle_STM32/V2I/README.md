@@ -28,9 +28,8 @@ To run the V2I sub-system, follow these steps:
   
 ## Proteus Project
 A Proteus project (compatible with Proteus 8.13 or later) is included in the repository to facilitate testing of the V2I sub-system. The project provides a simulated environment for evaluating the functionality and performance of the sub-system before deployment in real-world scenarios.
-![image]()
+![V2I Project Video](https://github.com/jeremynguyenn/Embedded-Vehicle-to-Everything-autonomous-vehicles-STM32/blob/main/V2X_autonomous%20vehicle_STM32/picture/V2I.png)
 
-## Video
-  ![V2I Project Video](https://github.com/jeremynguyenn/Embedded-Vehicle-to-Everything-autonomous-vehicles-STM32/blob/main/V2X_autonomous%20vehicle_STM32/picture/V2I.png)
+
 ## License
 This sub-system is part of the V2X Project and is licensed under the [GPL-3.0 License](https://github.com/jeremynguyenn/Embedded-Vehicle-to-Everything-autonomous-vehicles-STM32/blob/main/LICENSE).
