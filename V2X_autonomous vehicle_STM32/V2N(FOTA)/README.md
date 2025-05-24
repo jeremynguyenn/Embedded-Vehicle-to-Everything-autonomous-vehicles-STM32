@@ -6,7 +6,7 @@ The V2N (Firmware Over-The-Air) sub-system facilitates the secure remote updatin
 ## Overview
 
 The V2N sub-system enables seamless firmware updates for the target microcontroller, enhancing the flexibility and functionality of the device without the need for physical intervention. By leveraging web-based communication and wireless technology, the sub-system simplifies the process of deploying and updating firmware in real-time.
-![image](https://github.com/mohnagah/V2X_STM32_BLUEPILL/assets/157398651/1888ffe1-65d0-4990-a629-1911d9db8463)
+![image]()
 
 ## Features
 
@@ -27,7 +27,7 @@ To use the V2N sub-system, follow these steps:
 2. **NodeMCU Configuration:**
    - Connect the NodeMCU to any COM port through a USB to TTL module.
    - Add an appropriate COM interface in the Proteus simulation.
-   - ![image](https://github.com/mohnagah/V2X_STM32_BLUEPILL/assets/157398651/3cba085d-b092-47cc-b7f7-e6e20bd01be8)
+   - ![image]()
    - Configure the NodeMCU from the `config.h` file to:
      - Receive the .hex file uploaded to the web server using .hex File URL.
      - Set the Wi-Fi SSID and Password for connecting to the network.
@@ -47,7 +47,7 @@ To use the V2N sub-system, follow these steps:
 - **.hex File URL:** [Uploaded .hex File](https://sgnfinalproject.atwebpages.com/uploads/Application.txt)
 
 ## Video 
-[V2N(FOTA)](https://drive.google.com/file/d/16HHp2k4ZJ4EfdxErTHpvzzUdmCOtrauz/view?usp=sharing)
+[V2N(FOTA)]()
 
 ## License
 
