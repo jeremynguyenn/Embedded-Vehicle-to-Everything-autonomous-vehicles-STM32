@@ -33,4 +33,4 @@ A Proteus project (compatible with Proteus 8.13 or later) is included in the rep
 ## Video
   [V2I Project Video]()
 ## License
-This sub-system is part of the V2X Project and is licensed under the [GPL-3.0 License]().
+This sub-system is part of the V2X Project and is licensed under the [GPL-3.0 License](https://github.com/jeremynguyenn/Embedded-Vehicle-to-Everything-autonomous-vehicles-STM32/blob/main/LICENSE).
